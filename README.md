@@ -7,7 +7,7 @@ Your [Experts](https://tools.ietf.org/html/rfc8126#section-4.6) are currently [@
 To request registration of a problem type (or a change to an existing one), you can:
 
 * [File an issue](https://github.com/protocol-registries/http-problem-types/issues/new/choose) (preferred), or
-* Send e-mail to [the mailing list](MAILING_LIST_LINK).
+* Send e-mail to [the mailing list]([MAILING_LIST_LINK](https://www.ietf.org/mailman/listinfo/httpapi)).
 
 See [RFC 9457](https://www.iana.org/go/rfc9457) for more information; in particular, the [requirements for registration](https://www.rfc-editor.org/rfc/rfc9457.html#name-registered-problem-types).
 
