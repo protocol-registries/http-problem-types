@@ -1,4 +1,4 @@
-# HTTP Problem Types Registration Requests
+# HTTP Problem Type Registration Requests
 
 This repository's issues list manages requests to add and change entries in the [HTTP Probem Types Registry]([REGISTRY_LINK](https://www.iana.org/assignments/http-problem-types/http-problem-types.xhtml)). Please note our [contribution terms](.github/CONTRIBUTING.md).
 
