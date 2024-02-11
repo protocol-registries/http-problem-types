@@ -4,7 +4,7 @@ This repository's issues list manages requests to add and change entries in the 
 
 Your [Experts](https://tools.ietf.org/html/rfc8126#section-4.6) are currently [@mnot](https://github.com/mnot) and [@sdatspun2](https://github.com/sdatspun2).
 
-To request registration of a REGISTRY_VALUE_NAME (or a change to an existing one), you can:
+To request registration of a problem type (or a change to an existing one), you can:
 
 * [File an issue](https://github.com/protocol-registries/http-problem-types/issues/new/choose) (preferred), or
 * Send e-mail to [the mailing list](MAILING_LIST_LINK).
