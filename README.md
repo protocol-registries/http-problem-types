@@ -2,7 +2,7 @@
 
 This repository's issues list manages requests to add and change entries in the [HTTP Probem Types Registry]([REGISTRY_LINK](https://www.iana.org/assignments/http-problem-types/http-problem-types.xhtml)). Please note our [contribution terms](.github/CONTRIBUTING.md).
 
-Your [Experta](https://tools.ietf.org/html/rfc8126#section-4.6) are currently [@mnot](https://github.com/mnot) and []().
+Your [Experts](https://tools.ietf.org/html/rfc8126#section-4.6) are currently [@mnot](https://github.com/mnot) and [@sdatspun2](https://github.com/sdatspun2).
 
 To request registration of a REGISTRY_VALUE_NAME (or a change to an existing one), you can:
 
